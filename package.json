@@ -1,0 +1,15 @@
+{
+  "name": "signalimei-bot",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "wrangler": "^4.45.0"
+  },
+  "cloudflare": {
+    "bindings": {
+      "DB": {
+        "description": "Base de données D1 (créée automatiquement) : déclarations, sessions, journal."
+      }
+    }
+  }
+}

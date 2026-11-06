@@ -1,0 +1,9 @@
+{
+  "name": "signalimei-bot",
+  "main": "index.js",
+  "compatibility_date": "2026-11-05",
+  "observability": { "enabled": true },
+  "d1_databases": [
+    { "binding": "DB", "database_name": "signalimei-db" }
+  ]
+}
