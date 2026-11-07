@@ -4,6 +4,10 @@
   "compatibility_date": "2026-11-05",
   "observability": { "enabled": true },
   "d1_databases": [
-    { "binding": "DB", "database_name": "signalimei-db" }
+    {
+      "binding": "DB",
+      "database_name": "signalimei-db",
+      "database_id": "00fd458b-952c-4b67-b505-69f6970aefc7"
+    }
   ]
 }
